@@ -110,7 +110,7 @@ https://aws.amazon.com/elasticsearch-service/
 ## Contact
 
 - **Primary Email:** paimerits@gmail.com  
-- **Secondary Email:** paiparkzhu@hotmail.com  
+- **Secondary Email:** paimerits@hotmail.com  
 
 *Best way to reach me is via email.*
 
